@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Daomu/.idea/Daomu.iml" filepath="$PROJECT_DIR$/../Daomu/.idea/Daomu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pixiv2.iml" filepath="$PROJECT_DIR$/.idea/Pixiv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rella/.idea/Rella.iml" filepath="$PROJECT_DIR$/../Rella/.idea/Rella.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pixivMysql/.idea/pixivMysql.iml" filepath="$PROJECT_DIR$/../pixivMysql/.idea/pixivMysql.iml" />
+    </modules>
+  </component>
+</project>
